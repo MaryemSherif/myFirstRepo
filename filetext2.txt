@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ljlntytyiygikghki
 
 
@@ -11,6 +12,9 @@ hivligvhhbkjnlnlknj
 
 lknvjkhvjc hmgvjvbmjbvnmbvn
 kjkjnjnlnlj
+=======
+tytyiygikghki
+>>>>>>> parent of 11981a1 (edit3)
 =======
 tytyiygikghki
 >>>>>>> parent of 11981a1 (edit3)
